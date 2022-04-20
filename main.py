@@ -1,3 +1,4 @@
-from MyTestModule import Boo
+from MyTestModule import Boo, Bee
 
 Boo();
+Bee();
